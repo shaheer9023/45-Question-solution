@@ -1,0 +1,1 @@
+console.log(`${mynumber[i]}st`);
